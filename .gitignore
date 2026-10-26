@@ -22,3 +22,6 @@ htmlcov/
 
 # Daily-report log written by run_daily_report.bat
 logs/
+
+# Trained Agent Work models and metrics (manage.py train_model)
+ml_artifacts/
